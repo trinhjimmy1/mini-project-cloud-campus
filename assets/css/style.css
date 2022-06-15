@@ -1,0 +1,18 @@
+
+.form-box{
+    position: relative;
+    max-width: 430px;
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.form--hidden {
+    display: none;
+}
+
+.form__link:hover {
+    text-decoration: underline;
+}
+
